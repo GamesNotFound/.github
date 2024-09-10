@@ -7,18 +7,20 @@ Bem-vindo ao perfil da GamesNotFound, o estúdio de desenvolvimento de jogos da 
 Ao se juntar à GamesNotFound, nossos membros passam por um processo de integração estruturado que abrange ferramentas essenciais e metodologias para o desenvolvimento de jogos.
 
 ### 1. Introdução ao Controle de Versão e Colaboração
-   - **Git**: Todos os membros aprendem os fundamentos do Git para controlar versões de seus projetos. Isso inclui criação de branches, commits, pull requests e resolução de conflitos.
+   - **Git**: Todos os membros aprendem os fundamentos do Git para controlar versões de seus projetos. Isso inclui criação de branches, commits, pull requests (PRs) e resolução de conflitos.
    - **GitHub**: Utilizamos GitHub como nossa plataforma de colaboração. Aqui, ensinamos como criar repositórios, fazer contribuições e participar de projetos colaborativos de forma organizada e eficiente.
 
+   Trabalhamos com um fluxo de desenvolvimento baseado em **forks** e **pull requests**, onde cada membro cria seu próprio fork do projeto principal. Após as mudanças serem feitas, uma PR é aberta, e qualquer membro da equipe pode realizar **code reviews**. Esta prática não só ajuda todos a terem uma visão geral do projeto, mas também prepara os membros para o ambiente de trabalho de uma empresa real, onde a colaboração e a revisão de código são essenciais.
+
 ### 2. Godot Engine
-   - A ferramenta principal do estúdio é o **Godot Engine**, um motor de jogos open-source, acessível e poderoso.
+A ferramenta principal do estúdio é a **Godot Engine**, um motor de jogos open-source, acessível e poderoso.
    - **Tutorial de Introdução ao Godot**: Fornecemos tutoriais sobre como configurar projetos, trabalhar com cenas, nós (nodes) e scripts em GDScript, além de explorar a interface visual.
    - **Primeiro Projeto**: Como parte do processo de integração, os novos membros desenvolvem um mini-jogo simples para se familiarizar com a plataforma e as práticas de desenvolvimento que usamos.
 
 ### 3. Ferramentas de Organização
    Para manter o time sincronizado e garantir que todos saibam o que está acontecendo nos projetos, utilizamos:
    - **Trello**: Para organizar tarefas e manter o fluxo de trabalho visível para todos os membros. Cada jogo ou projeto tem seu quadro dedicado com listas de tarefas, responsáveis e status.
-   - **Docusaurus**: Ferramenta de documentação criada pelo Facebook que utilizamos para manter uma wiki do estúdio. Isso inclui tutoriais, informações sobre os projetos e guias técnicos, este mesmo texto introdutório pode ser encontrado lá :)
+   - **Docusaurus**: Ferramenta de documentação criada pelo Facebook que utilizamos para manter uma wiki do estúdio. Isso inclui tutoriais, informações sobre os projetos e guias técnicos, e este mesmo texto introdutório pode ser encontrado lá :)
 
 ## Como Fazemos Jogos
 
