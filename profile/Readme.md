@@ -44,4 +44,12 @@ Participamos de diversos **game jams** ao longo do ano, tanto internacionais qua
 ### 6. Lançamento e Manutenção
 Após o lançamento, focamos na correção de bugs e na implementação de melhorias com base no feedback contínuo. Todos os projetos são open-source e disponíveis no GitHub para que qualquer pessoa possa colaborar e aprender.
 
+## Side Projects
+
+Além dos nossos projetos principais, ocasionalmente desenvolvemos **side projects** com menor importância, mas focados em áreas mais especializadas. Esses projetos permitem que os membros explorem diferentes tecnologias, motores gráficos e frameworks. Alguns exemplos incluem:
+   - Desenvolver um jogo com **OpenGL** ou **Vulkan** para entender melhor gráficos de baixo nível.
+   - Criar jogos em outras linguagens e frameworks, como **Pygame** ou até em outras engines, como **Unity** ou **Bevy**.
+   
+Esses projetos oferecem uma ótima oportunidade para experimentar, aprender novas habilidades e explorar novos horizontes no desenvolvimento de jogos.
+
 Junte-se à GamesNotFound e comece a criar jogos inovadores e colaborativos conosco!
